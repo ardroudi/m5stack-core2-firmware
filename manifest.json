@@ -1,8 +1,8 @@
 {
-  "version": "2026.08.16-df29a29",
+  "version": "2026.08.16-93410f6",
   "url": "https://raw.githubusercontent.com/ardroudi/m5stack-core2-firmware/main/ClaudeFace.ino.bin",
   "size": 1330272,
-  "sha256": "8674b6337d8756669b53a81d21b73281690aeb6ce949f2ad8a7ca4d0ee21f59b",
-  "built": "2026-08-16T18:32:55Z",
-  "commit": "df29a29598d08e5b95a190695c96709add9a9246"
+  "sha256": "f20b2709cf6b86f212bab60e96680de239e058f155d43fdf53c5f5c215a49993",
+  "built": "2026-08-16T18:41:34Z",
+  "commit": "93410f685cd27368bde1ea488066968a1572c4d0"
 }
